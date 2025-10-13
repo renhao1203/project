@@ -1,4 +1,7 @@
 # 🏥 HW3：台中仁愛醫院手術室排程規劃
+
+## 一、功能性需求（Functional Requirements）
+
 ### 1. 使用者身分與權限管理 (User & Role Management)
 - 系統必須提供**登入**與**登出**功能，並根據**使用者身分**（醫師、護士、管理員）給予相對應權限。  
 - 管理員必須能**新增**、**修改**與**停用**使用者帳號。  
@@ -46,7 +49,7 @@
 
 ---
 
-# 🩺 手術室排程系統流程圖 (System Flow Diagram)
+## 🩺 手術室排程功能分解圖(functional decomposition diagram)
 ![系統流程圖](系統流程圖.png)
 
 

@@ -7,3 +7,11 @@
 </div>
 
 ---
+![循序圖二](https://github.com/renhao1203/project/blob/main/%E5%BE%AA%E5%BA%8F%E5%9C%96%E4%BA%8C.png)
+<div align="center">
+  <font size="7">循序圖二  : 護士接受支援並查看個人排程</font>
+</div>
+
+
+
+
